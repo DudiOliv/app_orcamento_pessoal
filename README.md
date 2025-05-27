@@ -1,2 +1,5 @@
 # app_orcamento_pessoal
-Um projeto que realizei juntamente com o curso em 2022, mas refiz adicionando botão de reoload na págna e documentacao
+
+Este é um projeto de aplicativo de orçamento pessoal, originalmente desenvolvido durante um curso em 2022. O projeto foi refatorado e aprimorado, incluindo a adição de um botão de recarga da página e documentação do código.
+
+Este projeto foi realizado com base no curso "Domine Web" dos professores Jorge Sant Ana e Jamilton Damasceno.
